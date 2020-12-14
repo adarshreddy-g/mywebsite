@@ -3,72 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://adarshreddy-g.github.io/mywebsite/pt-br/</loc>
+    <loc>https://adarshreddy-g.github.io/portfolio/pt-br/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adarshreddy-g.github.io/mywebsite/"
+                href="https://adarshreddy-g.github.io/portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://adarshreddy-g.github.io/mywebsite/pt-br/"
+                href="https://adarshreddy-g.github.io/portfolio/pt-br/"
                 />
   </url>
   
   <url>
-    <loc>https://adarshreddy-g.github.io/mywebsite/pt-br/authors/</loc>
+    <loc>https://adarshreddy-g.github.io/portfolio/pt-br/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adarshreddy-g.github.io/mywebsite/authors/"
+                href="https://adarshreddy-g.github.io/portfolio/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://adarshreddy-g.github.io/mywebsite/pt-br/authors/"
+                href="https://adarshreddy-g.github.io/portfolio/pt-br/authors/"
                 />
   </url>
   
   <url>
-    <loc>https://adarshreddy-g.github.io/mywebsite/pt-br/categories/</loc>
+    <loc>https://adarshreddy-g.github.io/portfolio/pt-br/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adarshreddy-g.github.io/mywebsite/categories/"
+                href="https://adarshreddy-g.github.io/portfolio/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://adarshreddy-g.github.io/mywebsite/pt-br/categories/"
+                href="https://adarshreddy-g.github.io/portfolio/pt-br/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://adarshreddy-g.github.io/mywebsite/pt-br/series/</loc>
+    <loc>https://adarshreddy-g.github.io/portfolio/pt-br/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adarshreddy-g.github.io/mywebsite/series/"
+                href="https://adarshreddy-g.github.io/portfolio/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://adarshreddy-g.github.io/mywebsite/pt-br/series/"
+                href="https://adarshreddy-g.github.io/portfolio/pt-br/series/"
                 />
   </url>
   
   <url>
-    <loc>https://adarshreddy-g.github.io/mywebsite/pt-br/tags/</loc>
+    <loc>https://adarshreddy-g.github.io/portfolio/pt-br/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adarshreddy-g.github.io/mywebsite/tags/"
+                href="https://adarshreddy-g.github.io/portfolio/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://adarshreddy-g.github.io/mywebsite/pt-br/tags/"
+                href="https://adarshreddy-g.github.io/portfolio/pt-br/tags/"
                 />
   </url>
   
