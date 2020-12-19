@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adarsh</title>
-    <link>https://adarshreddy-g.github.io/portfolio/</link>
+    <link>https://adreg0.github.io/</link>
     <description>Recent content on Adarsh</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://adarshreddy-g.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://adreg0.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://adarshreddy-g.github.io/portfolio/about/</link>
+      <link>https://adreg0.github.io/about/</link>
       <pubDate>Mon, 14 Dec 2020 15:00:05 +0530</pubDate>
       
-      <guid>https://adarshreddy-g.github.io/portfolio/about/</guid>
+      <guid>https://adreg0.github.io/about/</guid>
       <description>Hi there I am Adarsh, A passionate guy who loves to code and tackle some real life challenges. Right from my childhood I was very much interested in computers and very enthusiastic to learn about this so called device on which the entire world is running. I still remember one of my good olden days where I had tried my level best in dismantling one such computer just to know its inner story.</description>
     </item>
     
